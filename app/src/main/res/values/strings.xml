@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyectoconfirebase</string>
+    <string name="welcome">Bienvenido Usuario</string>
+    <string name="log_out">Salir</string>
+    <string name="inicio">Inicio</string>
+    <string name="test">aplicativo de prueba</string>
+    <string name="salir">Salir</string>
+    <string name="login">login</string>
+    <string name="register">Registar</string>
+    <string name="email">Correo</string>
+    <string name="name">Nombre</string>
+</resources>
